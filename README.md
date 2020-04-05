@@ -29,3 +29,7 @@ Please contact `Voidus_k#8707`.
 | report        | .report .help is not working| Report an issue to the support server                                |
 | serveremojis  | .serveremojis               | Get a list of the server emojis                                      |
 | serverinfo    | .serverinfo 123456789       | Get server info for your server or if specified, another server by ID|
+
+[Visit our discord support server](https://discord.gg/G7cj8Nr)
+[Visit our website>Void](http://voidus.ga:2004/bots/void/)
+[Visit our website](http://voidus.ga:2004/)
