@@ -4,6 +4,7 @@
 Hello user. So, you've stumbled across my bot and wondered how to use it? Well, feat not, here is a guide on my Discord bot, Void.
 
 Lib: [d.js](https://discord.js.org/#/docs/main/stable/general/welcome)
+and
 Lib ver: [v11](https://discord.js.org/#/docs/main/v11/general/welcome)
 
 If you:
